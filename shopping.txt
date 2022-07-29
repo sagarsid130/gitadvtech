@@ -3,6 +3,7 @@ Shopping List
 apples
 bananas
 biscuits
+curd
 yogurt
 milk
 bread
